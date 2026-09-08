@@ -1,3 +1,6 @@
+# The following essentially copied from [Unity's Style Guide](https://github.com/xrf10/PAL-Code-Style-Guide). 
+It is to be used with the PROD222 project Play A Life.
+
 # An example of a Unity C# code style guide
 
 ## Why should you consider a code style guide?
