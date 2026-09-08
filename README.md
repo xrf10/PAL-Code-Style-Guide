@@ -1,4 +1,4 @@
-# The following essentially copied from [Unity's Style Guide](https://github.com/xrf10/PAL-Code-Style-Guide). 
+# The following is essentially copied from [Unity's Style Guide](https://unity.com/resources/create-code-c-sharp-style-guide-e-book?isGated=false). 
 It is to be used with the PROD222 project Play A Life.
 
 # An example of a Unity C# code style guide
